@@ -18,15 +18,15 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: davidbtadokoro.tech
+title: Eu S2 A Soso Baby
 
-tagline: A dev's personal website # it will display as the sub-title
+tagline: A mais mais de todas! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   David de Barros Tadokoro personal website.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://davidbtadokoro.tech"
+url: "https://euamoasosobaby.com"
 
 github:
   username: davidbtadokoro # change to your github username
@@ -73,7 +73,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'assets/img/favicons/android-chrome-256x256.png'
+avatar: 'assets/img/favicons/android-chrome-512x512.png'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -190,3 +190,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jemoji
